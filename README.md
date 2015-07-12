@@ -1,5 +1,6 @@
 # quran-project-trados
-The Trados Studio 2014 Project Folder for the Qur'an Project
+The Trados Studio 2014 Project Folder for the Qur'an Project.
+
 See [the project page](http://humblefoundation.org/quran) and [this introductory blog post](http://www.humblefoundation.org/blog/our-first-blog-post-on-relocation-and-translation), as well as [this one](http://www.humblefoundation.org/blog/publishing-a-book-with-latex-part-one).
 
 # license
